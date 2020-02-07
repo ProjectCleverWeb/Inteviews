@@ -1,4 +1,4 @@
-# General Knowledge Questions:
+# General Knowledge Questions#
 
 Please write your answers in the code blocks.
 
